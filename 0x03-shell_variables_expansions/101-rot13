@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'badman@great.com' | rot13
+echo 'badman@example.com' | rot13
