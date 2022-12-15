@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'badman@great.com' | rot13
